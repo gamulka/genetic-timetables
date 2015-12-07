@@ -40,3 +40,5 @@ The input XML is structured as follows:
 	</Cursos>
 </Horario>
 ```
+
+An useful approach to this problem is nicely explained here: http://www.cs.le.ac.uk/~syang/Papers/MISTA09.pdf
